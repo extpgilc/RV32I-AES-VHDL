@@ -1,6 +1,0 @@
-[submodule "libs/surf"]
-	path = libs/surf
-	url = https://github.com/slaclab/surf.git
-[submodule "libs/AES-Two-Process"]
-	path = libs/AES-Two-Process
-	url = https://github.com/extpgilc/AES-Two-Process.git
